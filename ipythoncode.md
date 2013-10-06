@@ -1,6 +1,5 @@
 Project1
 ========
-Hi group 3, Lorraine and I have got most of the data cleaning done using the code below. It is very important to do the part in Virtual Box before iPython Notebook
 
 In Virtual Box:
 
